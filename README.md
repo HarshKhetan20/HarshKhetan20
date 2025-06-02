@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 About Me  
-- 🎓 **2nd-year Computer Science Engineering** student at **SRM Institute of Science and Technology**  
+- 🎓 **3rd-year Computer Science Engineering** student at **SRM Institute of Science and Technology**  
 - 🤖 Passionate about **AI, Machine Learning, and Backend Development**  
 - 💡 Love working on **real-world applications** and **innovative projects**
 - 📚 Always open to learning new technologies...
